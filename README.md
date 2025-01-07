@@ -30,7 +30,7 @@
   - Dynamic Reviews Section: Created a carousel to display user testimonials.
   - Collaborations Section: Highlighted partnerships with visually appealing designs.
   - Engaging Footer: Integrated page links and social media for enhanced user engagement.
-## 5. E-Commerece Online Shopping Landing Page 
+## 5. E-Commerce Online Shopping Landing Page 
   - Developed using HTML, CSS, JavaScript, and React to create a responsive and visually appealing user interface.
   - Designed sections to highlight featured product categories with compelling visuals.
   - Implemented a navigation bar for effortless exploration of product collections.
