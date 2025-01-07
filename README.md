@@ -22,7 +22,8 @@
   - This project demonstrates my ability to clean and prepare data for further analysis.
  
 ## 4. Financial App Landing Page
-  - Built a fully responsive and modern financial app landing page using React JS and Tailwind CSS.
+- **Tools Used:** React JS and Tailwind CSS.
+- **Project Description:**
   - Designed a sleek user interface that adapts seamlessly across all screen sizes.
     Implemented features such as:
   - Interactive Navigation Bar: Includes a link to Google Play for easy app access.
@@ -30,8 +31,10 @@
   - Dynamic Reviews Section: Created a carousel to display user testimonials.
   - Collaborations Section: Highlighted partnerships with visually appealing designs.
   - Engaging Footer: Integrated page links and social media for enhanced user engagement.
+    
 ## 5. E-Commerce Online Shopping Landing Page 
-  - Developed using HTML, CSS, JavaScript, and React to create a responsive and visually appealing user interface.
+- **Tools Used:** HTML, CSS, JavaScript
+- **Project Description:**
   - Designed sections to highlight featured product categories with compelling visuals.
   - Implemented a navigation bar for effortless exploration of product collections.
   - Created interactive components such as hover effects and smooth scrolling to enhance user engagement.
