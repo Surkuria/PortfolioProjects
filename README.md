@@ -1,5 +1,5 @@
 # Portfolio Project Repository
-## 1. COVID-19 Data Analysis and Visualization
+## 1. COVID-19 Data Analysis and Visualization (Tableau)
 - **Tools Used:** Tableau
 - **Project Description:** 
   - Analyzed data related to COVID-19 deaths and vaccinations.
