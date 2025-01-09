@@ -48,6 +48,18 @@
 <img width="1193" alt="Screenshot 2025-01-08 at 2 51 06 PM" src="https://github.com/user-attachments/assets/5d0a24fa-50a1-41b1-809d-7ce8f58238a5" />
 
 
+## 5. Coffee Sales Dashboard (Excel)
+-  **Tools Used:** Excel
+-  **Project Description:**
+-  Tools Used: Excel
+-  Conducted a comprehensive analysis of coffee sales data to evaluate performance across multiple dimensions.
+-  Utilized Excel to develop an interactive dashboard that visualizes total sales over time, sales distribution by country (United States, United Kingdom, and Ireland), and identifies the top 5 customers.
+-  This project demonstrates my proficiency in data visualization and my ability to extract actionable insights from sales data.
+
+<img width="1231" alt="Screenshot 2025-01-09 at 8 57 33 AM" src="https://github.com/user-attachments/assets/e0be9288-4c31-4c62-b8f8-5b13caf5a5be" />
+
+
+
 
 
 
